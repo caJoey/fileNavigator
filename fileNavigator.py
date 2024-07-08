@@ -38,6 +38,7 @@ def prevName():
     return returner
 
 
+
 # main program
 start = input("Enter complete path of directory to start in, or just press [ENTER] to start in the directory you called fileNavigator.py from: ")
 if len(start) != 0:
